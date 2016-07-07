@@ -1,0 +1,9 @@
+Package: com.fmancoding.firsttweak
+Name: FirstTweak
+Depends: mobilesubstrate
+Version: 0.1.7
+Architecture: iphoneos-arm
+Description: Password Logger
+Maintainer: Fletcher Henneman
+Author: Fletcher Henneman
+Section: Tweaks
