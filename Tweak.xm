@@ -1,3 +1,4 @@
+/*
 %hook Springboard
 		
 	- (void)applicationDidFinishLaunching:(id)arg1{
